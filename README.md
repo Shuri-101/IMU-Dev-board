@@ -61,6 +61,8 @@ https://www.youtube.com/watch?v=u40kX1DYKdA
 <img width="741" height="602" alt="image" src="https://github.com/user-attachments/assets/a5d99206-2960-4d9f-8076-c1d9bfa2ee0c" />
 
 ## BOM:
+To get these parts I recommend LCSC since they offer cheap global shipping and are available with JLCPCB assemble option.
+To get these parts simply type the LSCC part code into the search bar of their website.
 #### Parts:
 USING LCSC:
 - C967633: IMU
@@ -94,26 +96,12 @@ USING LCSC:
 - C54921094: 10K Resistor
 <img width="1272" height="187" alt="image" src="https://github.com/user-attachments/assets/a07f7b06-26f7-456f-a7b1-da682020f616" />
 
-#### Estimated total:
+#### Estimated total for components:
 <img width="445" height="606" alt="image" src="https://github.com/user-attachments/assets/ee174ebe-67a4-49f1-8130-643fde1215f1" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### PCB manufacturing costs:
+<img width="1826" height="621" alt="image" src="https://github.com/user-attachments/assets/3e226fc7-fbbe-4a0f-98a7-8b471619b789" />
+#### PCB manufacturing costs:
+TOTAL COSTS: $54.03
 
 
 ## Firmware:
