@@ -62,6 +62,57 @@ https://www.youtube.com/watch?v=u40kX1DYKdA
 
 ## BOM:
 #### Parts:
+USING LCSC:
+- C967633: IMU
+<img width="1302" height="232" alt="image" src="https://github.com/user-attachments/assets/3a1da705-aee2-41ca-8534-c4c7c4d8e790" />
+- C529355: MCU
+<img width="1312" height="205" alt="image" src="https://github.com/user-attachments/assets/3f1b9302-7cfc-4cb6-872c-fee6d1ec8d20" />
+- C6186: LDO
+<img width="1288" height="212" alt="image" src="https://github.com/user-attachments/assets/f333f5cd-bcd9-46ae-88d5-427cb9fd8f7f" />
+- C20608785: YELLOW LED
+<img width="1280" height="190" alt="image" src="https://github.com/user-attachments/assets/7e376679-7d2e-4698-be3a-3bbef3b9f384" />
+- C2894893: USB-C PORT
+<img width="1266" height="181" alt="image" src="https://github.com/user-attachments/assets/c03c06ff-6189-4853-932e-2a25d3ed0af0" />
+- C19171391: RED LED
+<img width="1268" height="197" alt="image" src="https://github.com/user-attachments/assets/681a56bf-1a95-42b7-b909-33165607b966" />
+- C33546008: 22uF MLCC XR5 (Filtering)
+<img width="1292" height="192" alt="image" src="https://github.com/user-attachments/assets/31fb84d5-eb92-4f1f-af69-e0bcb9abe108" />
+- C36911367: 100nF MLCC XR7 (Decoupling)
+<img width="1286" height="172" alt="image" src="https://github.com/user-attachments/assets/35cbfbad-10de-4431-98ee-bba83f33394a" />
+- C107365: 4.7uF MLCC XR7 (Bulk decoupling)
+<img width="1267" height="197" alt="image" src="https://github.com/user-attachments/assets/f1ea56c3-b349-4e4f-a060-bd927f7e510a" />
+- C53282227: 1uF MLCC XR7
+<img width="1278" height="170" alt="image" src="https://github.com/user-attachments/assets/4072dd7f-5468-4560-8ec7-55aac66b7517" />
+- C519909: 10nF MLCC XR7
+<img width="1267" height="197" alt="image" src="https://github.com/user-attachments/assets/1df28d6e-7f4b-4492-939b-c8bf29ea8ce6" />
+- C118848: 5.1K Resistor
+<img width="1311" height="200" alt="image" src="https://github.com/user-attachments/assets/b68442fb-931a-42d1-a039-b78b633ce8e8" />
+- C54921199: 470 Resistor
+<img width="1303" height="192" alt="image" src="https://github.com/user-attachments/assets/f9460036-903f-4a82-8694-f21ac1c2d157" />
+- C54921203: 4.7K Resistor
+<img width="1293" height="190" alt="image" src="https://github.com/user-attachments/assets/99e79212-36e5-43e8-864a-97d154547be4" />
+- C54921094: 10K Resistor
+<img width="1272" height="187" alt="image" src="https://github.com/user-attachments/assets/a07f7b06-26f7-456f-a7b1-da682020f616" />
+
+#### Estimated total:
+<img width="445" height="606" alt="image" src="https://github.com/user-attachments/assets/ee174ebe-67a4-49f1-8130-643fde1215f1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
