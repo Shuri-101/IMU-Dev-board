@@ -98,9 +98,11 @@ USING LCSC:
 
 #### Estimated total for components:
 <img width="445" height="606" alt="image" src="https://github.com/user-attachments/assets/ee174ebe-67a4-49f1-8130-643fde1215f1" />
+
 #### PCB manufacturing costs:
 <img width="1826" height="621" alt="image" src="https://github.com/user-attachments/assets/3e226fc7-fbbe-4a0f-98a7-8b471619b789" />
-#### PCB manufacturing costs:
+
+#### TOTAL:
 TOTAL COSTS: $54.03
 
 
