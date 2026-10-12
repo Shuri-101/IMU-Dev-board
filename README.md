@@ -19,6 +19,9 @@ Example of my decoupling capacitors are:
 
 Note that the capacitors are placed in parallel to the 3V3 line. 4.7uF is a bulk capacitors meant to refill the small capacitors between the spikes and dips that get drained very quickly during the spikes and dips. 
 
+For more info about decoupling watch: 
+https://www.youtube.com/watch?v=u40kX1DYKdA
+
 ### Why I chose these parts?
 
 - I chosen the STM32STM32G431CBTX since it offered FPU, CRC and a mathematical accelerator which are needed to control these sensors, I chosen the LQFP-48 package since its easier to solder and it was the only variant available to buy at the time.
