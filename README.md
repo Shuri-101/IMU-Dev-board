@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=u40kX1DYKdA
 
 <img width="741" height="602" alt="image" src="https://github.com/user-attachments/assets/a5d99206-2960-4d9f-8076-c1d9bfa2ee0c" />
 
-##Firmware:
+## Firmware:
 Since I don't know how to code and as I mentioned at the start this board is meant to get me to learn how to code, ill just send the config file for the pins FOR NOW.
 
 
