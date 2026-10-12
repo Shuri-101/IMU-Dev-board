@@ -1,4 +1,4 @@
-# IMU STM32STM32G431CBTX DEV BOARD:
+# IMU STM32STM32G431CBT6 DEV BOARD:
 
 <img width="1037" height="761" alt="image" src="https://github.com/user-attachments/assets/5dc3786a-16a6-46f5-b547-0cbe8b512bd7" />
 <img width="698" height="628" alt="image" src="https://github.com/user-attachments/assets/2ce3f879-b770-49e4-913f-12a6519b35eb" />
