@@ -9,7 +9,7 @@ Hello, this is just a project for me to get some experience and learn about data
 ### About the board:
 
 This board contains: 
-- Built in IMU (LSM6DS3TR-C)
+- IMU (LSM6DS3TR-C)
 - x6 GPIO headers
 - x2 I2C headers (I2C 1 and I2C 2)
 - x1 UART header (UART2)
