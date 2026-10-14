@@ -8,7 +8,17 @@ Hello, this is just a project for me to get some experience and learn about data
 ## PCB
 ### About the board:
 
-This board contains a built in IMU (LSM6DS3TR-C) x6 GPIO headers, x2 I2C headers (I2C 1 and I2C 2), x1 UART header (UART2), x2 SPI Headers (SPI 2, SPI3), x2 ADC headers and x2 PWM headers. It also contains x2 5V headers, x4 3.3V headers and X6 GND headers.
+This board contains: 
+- Built in IMU (LSM6DS3TR-C)
+- x6 GPIO headers
+- x2 I2C headers (I2C 1 and I2C 2)
+- x1 UART header (UART2)
+- x2 SPI Headers (SPI 2, SPI3)
+- x2 ADC headers
+- x2 PWM headers
+- x2 5V headers
+- x4 3.3V headers
+- x6 GND headers
 
 ### Schematic:
 <img width="1348" height="771" alt="image" src="https://github.com/user-attachments/assets/ae363694-50df-48bf-be56-1d93841886f1" />
